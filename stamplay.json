@@ -1,0 +1,10 @@
+{
+  "appId": "forecastbuddy",
+  "apiKey": "33f2cb4737b6c198ee0cb13916389e1d99cc53f23e522652dd9a3630c97c0574",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
